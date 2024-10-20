@@ -1,0 +1,90 @@
+{
+  "main_name": "The Example Name",
+  "header": {
+    "title": "The Example Name"
+  },
+  "skills": {
+    "title": "My skills",
+    "webDeveloper": {
+      "title": "Web developer",
+      "description": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop..."
+    },
+    "otherSkills": {
+      "title": "Other skills",
+      "description": "Relatively good research and search skills. Working thinking, good teamwork skills compared to age."
+    }
+  },
+  "histories": {
+    "title": "Histories",
+    "time_grow_1": {
+      "year": "2016",
+      "description": "One of junior high school"
+    },
+    "time_grow_2": {
+      "year": "2017-2019",
+      "description": "Other Junior high school"
+    },
+    "time_grow_3": {
+      "year": "2019-2021",
+      "description": "Other high school"
+    },
+    "time_grow_4": {
+      "year": "2022-2023",
+      "description": "College studies"
+    }
+  },
+  "contact": {
+    "title": "Social contact",
+    "phone": {
+      "label": "phone",
+      "value": "0987654321"
+    },
+    "zalo": {
+      "label": "zalo",
+      "value": "https://zalo.me"
+    },
+    "email": {
+      "label": "email",
+      "value": "contact@fullstack.edu.vn"
+    },
+    "facebook": {
+      "label": "facebook",
+      "value": "https://www.facebook.com/groups/f8official"
+    },
+    "youtube": {
+      "label": "youtube",
+      "value": "https://www.youtube.com/c/F8VNOfficial"
+    }
+  },
+  "projects": {
+    "title": "Self project",
+    "general_link": "https://github.com/duongnguyenf8",
+    "project_1": {
+      "name": "Project Code snippet",
+      "description": "A small project completed within a day. A simple website that allows you to create and share code snippets. Using HTML, CSS, JS and custom elements.",
+      "demoLink": "https://codefast.vercel.app/",
+      "codeLink": "https://github.com/duongnguyenf8/demo_custom-element"
+    },
+    "project_2": {
+      "name": "Project blog",
+      "description": "A bigger project done in three days. A personal blog website with posts about programming and learning. Using React.js.",
+      "demoLink": "https://code-exercise-blog.vercel.app/",
+      "codeLink": "https://github.com/duongnguyenf8/code_exercise-blog"
+    },
+    "project_3": {
+      "name": "Project 20f8",
+      "description": "A fun project made in a day. A puzzle game based on the 2048 game. Using Next.js and Tailwind CSS.",
+      "demoLink": "http://f8-2048.sanphamkythuat.online:880/",
+      "codeLink": "https://github.com/duongnguyenf8/20f8"
+    }
+  },
+  "hobbies": {
+    "title": "My hobbies",
+    "hobbie_1": "Enjoy relaxing music, rap music from Đen Vâu and other artists,…",
+    "hobbie_2": "Read books, learn more about new programming languages. Currently, I am self-studying Python",
+    "hobbie_3": "Follow the technology trends, news about famous products like Iphone, Huawei, GoogleAI,…"
+  },
+  "footer": {
+    "text": "© 2024 The Example Name. All rights reserved."
+  }
+}

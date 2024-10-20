@@ -1,0 +1,90 @@
+{
+  "main_name": "Tên ví dụ",
+  "header": {
+    "title": "Tên ví dụ"
+  },
+  "skills": {
+    "title": "Kỹ năng của tôi",
+    "webDeveloper": {
+      "title": "Lập trình viên web",
+      "description": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop..."
+    },
+    "otherSkills": {
+      "title": "Kỹ năng khác",
+      "description": "Kỹ năng nghiên cứu và tìm kiếm khá tốt. Tư duy làm việc và kỹ năng làm việc nhóm tốt so với độ tuổi."
+    }
+  },
+  "histories": {
+    "title": "Lịch sử",
+    "time_grow_1": {
+      "year": "2016",
+      "description": "One of junior high school"
+    },
+    "time_grow_2": {
+      "year": "2017-2019",
+      "description": "Other Junior high school"
+    },
+    "time_grow_3": {
+      "year": "2019-2021",
+      "description": "Other high school"
+    },
+    "time_grow_4": {
+      "year": "2022-2023",
+      "description": "College studies"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ xã hội",
+    "phone": {
+      "label": "số điện thoại",
+      "value": "0987654321"
+    },
+    "zalo": {
+      "label": "zalo",
+      "value": "https://zalo.me"
+    },
+    "email": {
+      "label": "email",
+      "value": "contact@fullstack.edu.vn"
+    },
+    "facebook": {
+      "label": "facebook",
+      "value": "https://www.facebook.com/groups/f8official"
+    },
+    "youtube": {
+      "label": "youtube",
+      "value": "https://www.youtube.com/c/F8VNOfficial"
+    }
+  },
+  "projects": {
+    "title": "Dự án cá nhân",
+    "general_link": "https://github.com/duongnguyenf8",
+    "project_1": {
+      "name": "Project Code snippet",
+      "description": "Một dự án nhỏ hoàn thành trong vòng một ngày. Một trang web đơn giản cho phép bạn tạo và chia sẻ các đoạn mã. Sử dụng HTML, CSS, JS và các phần tử tùy chỉnh.",
+      "demoLink": "https://codefast.vercel.app/",
+      "codeLink": "https://github.com/duongnguyenf8/demo_custom-element"
+    },
+    "project_2": {
+      "name": "Project blog",
+      "description": "Một dự án lớn hơn được thực hiện trong ba ngày. Một trang blog cá nhân với các bài viết về lập trình và học tập. Sử dụng React.js.",
+      "demoLink": "https://code-exercise-blog.vercel.app/",
+      "codeLink": "https://github.com/duongnguyenf8/code_exercise-blog"
+    },
+    "project_3": {
+      "name": "Project 20f8",
+      "description": "Một dự án thú vị được thực hiện trong một ngày. Một trò chơi giải đố dựa trên trò chơi năm 2048. Sử dụng CSS Next.js và Tailwind.",
+      "demoLink": "http://f8-2048.sanphamkythuat.online:880/",
+      "codeLink": "https://github.com/duongnguyenf8/20f8"
+    }
+  },
+  "hobbies": {
+    "title": "Sở thích của tôi",
+    "hobbie_1": "Thưởng thức những bản nhạc thư giãn, nhạc rap của Đen Vâu và các nghệ sĩ khác,…",
+    "hobbie_2": "Đọc sách, tìm hiểu thêm về các ngôn ngữ lập trình mới. Hiện tại mình đang tự học Python",
+    "hobbie_3": "Theo dõi các xu hướng công nghệ, tin tức về các sản phẩm nổi tiếng như Iphone, Huawei, GoogleAI,…"
+  },
+  "footer": {
+    "text": "© 2024 Tên ví dụ. Bản quyền thuộc về."
+  }
+}
