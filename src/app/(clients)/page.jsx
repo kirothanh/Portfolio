@@ -4,6 +4,10 @@ import SelfProject from "@/components/SelfProject";
 import SocialContent from "@/components/SocialContent";
 import { useTranslations } from "next-intl";
 
+export const metadata = {
+  title: "F8 portfolio",
+};
+
 export default function HomePage() {
   const t = useTranslations();
 
