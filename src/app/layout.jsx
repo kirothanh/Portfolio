@@ -1,6 +1,7 @@
 import { NextIntlClientProvider } from "next-intl";
 import "./globals.css";
 import { getLocale, getMessages } from "next-intl/server";
+import SessionWrapper from "@/components/SessionWrapper";
 
 export const metadata = {
   title: "Create Next App",
@@ -11,10 +12,12 @@ export default async function RootLayout({ children }) {
   const locale = await getLocale();
   const messages = await getMessages();
   return (
-    <html lang={locale}>
-      <NextIntlClientProvider messages={messages}>
-        <body>{children}</body>
-      </NextIntlClientProvider>
-    </html>
+    <SessionWrapper>
+      <html lang={locale} suppressHydrationWarning>
+        <NextIntlClientProvider messages={messages}>
+          <body>{children}</body>
+        </NextIntlClientProvider>
+      </html>
+    </SessionWrapper>
   );
 }

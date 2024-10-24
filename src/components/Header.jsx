@@ -2,6 +2,7 @@ import React from "react";
 import ThemeSwitcher from "./ThemeSwitcher";
 import SwitchLanguage from "./SwitchLanguage";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export default function Header() {
   const t = useTranslations();
@@ -18,7 +19,7 @@ export default function Header() {
         >
           <li className="flex basis-0 flex-row flex-grow flex-nowrap justify-start bg-transparent items-center no-underline text-medium whitespace-nowrap box-border gap-3 max-w-fit">
             <div className="flex items-center gap-4 flex-shrink-0">
-              <div
+              <Link
                 className="hidden sm:flex justify-start items-center gap-1"
                 href="/"
               >
@@ -34,13 +35,19 @@ export default function Header() {
                   src="/_next/image?url=%2Ffavicon.ico&amp;w=96&amp;q=75"
                 />
                 <p className="font-bold text-inherit">{t("main_name")}</p>
-              </div>
-              <p
-                className="font-bold text-green-500 hover:underline hover:text-green-400"
+              </Link>
+              <Link
+                className="font-bold hover:underline hover:text-green-400"
                 href="/"
               >
                 Home
-              </p>
+              </Link>
+              <Link
+                className="font-bold text-green-500 hover:underline hover:text-green-400"
+                href="/profile"
+              >
+                Profile
+              </Link>
             </div>
           </li>
         </ul>
