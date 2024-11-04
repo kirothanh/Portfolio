@@ -15,7 +15,7 @@ export default function Avatar() {
           <Image
             width={300}
             height={100}
-            src="/img/avatar.png"
+            src="/img/avatar.jpg"
             alt="Avatar"
             className="relative z-10 object-cover hover:scale-125 transition-transform-opacity !duration-300 rounded-large p-2 lg:w-[400px]"
           />

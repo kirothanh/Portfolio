@@ -1,13 +1,13 @@
 {
-  "main_name": "The Example Name",
+  "main_name": "Thanh's Portfolio",
   "header": {
-    "title": "The Example Name"
+    "title": "Thanh's Portfolio"
   },
   "skills": {
     "title": "My skills",
     "webDeveloper": {
-      "title": "Web developer",
-      "description": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop..."
+      "title": "Dinh Tien Thanh",
+      "description": "REST API, React.js, Next.js, Redux, CSS3, HTML5, Javascript, NodeJs, ExpressJS, NestJS, PostgreSQL,..."
     },
     "otherSkills": {
       "title": "Other skills",
@@ -58,30 +58,30 @@
   },
   "projects": {
     "title": "Self project",
-    "general_link": "https://github.com/duongnguyenf8",
+    "general_link": "https://github.com/kirothanh",
     "project_1": {
-      "name": "Project Code snippet",
-      "description": "A small project completed within a day. A simple website that allows you to create and share code snippets. Using HTML, CSS, JS and custom elements.",
-      "demoLink": "https://codefast.vercel.app/",
-      "codeLink": "https://github.com/duongnguyenf8/demo_custom-element"
+      "name": "Mindmap Project",
+      "description": "A project that uses the react-flow library to build a mindmap feature, convenient for work orstudy management. In addition, the project has a pro feature that allows creating multiplemindmaps in one account and share to others people.",
+      "demoLink": "https://mindmap-project-f8.vercel.app/",
+      "codeLink": "https://github.com/kirothanh/Mindmap-Project-F8"
     },
     "project_2": {
-      "name": "Project blog",
-      "description": "A bigger project done in three days. A personal blog website with posts about programming and learning. Using React.js.",
-      "demoLink": "https://code-exercise-blog.vercel.app/",
-      "codeLink": "https://github.com/duongnguyenf8/code_exercise-blog"
+      "name": "Cart Project",
+      "description": "A project that uses the redux library to manage state and react router dom navigate pages, user can buy products from list products and checkout.",
+      "demoLink": "https://cart-e-commerce-f8.vercel.app/",
+      "codeLink": "https://github.com/kirothanh/Cart_ECommerce_F8"
     },
     "project_3": {
-      "name": "Project 20f8",
-      "description": "A fun project made in a day. A puzzle game based on the 2048 game. Using Next.js and Tailwind CSS.",
-      "demoLink": "http://f8-2048.sanphamkythuat.online:880/",
-      "codeLink": "https://github.com/duongnguyenf8/20f8"
+      "name": "LandingPage",
+      "description": "A landing page build in 1 day, has responsive.",
+      "demoLink": "https://homework-44-six.vercel.app/",
+      "codeLink": "https://github.com/kirothanh/homework-44"
     }
   },
   "hobbies": {
     "title": "My hobbies",
     "hobbie_1": "Enjoy relaxing music, rap music from Đen Vâu and other artists,…",
-    "hobbie_2": "Read books, learn more about new programming languages. Currently, I am self-studying Python",
+    "hobbie_2": "Read books, learn more about new programming languages. Currently, I am self-studying NodeJS and NestJS",
     "hobbie_3": "Follow the technology trends, news about famous products like Iphone, Huawei, GoogleAI,…"
   },
   "footer": {

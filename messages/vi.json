@@ -1,13 +1,13 @@
 {
-  "main_name": "Tên ví dụ",
+  "main_name": "Portfolio của Thành",
   "header": {
-    "title": "Tên ví dụ"
+    "title": "Portfolio của Thành"
   },
   "skills": {
     "title": "Kỹ năng của tôi",
     "webDeveloper": {
-      "title": "Lập trình viên web",
-      "description": "REST API, React.js, Next.js, Redux, Context, CSS3, HTML5, UI/UX, Figma, Photoshop..."
+      "title": "Đinh Tiến Thành",
+      "description": "REST API, React.js, Next.js, Redux, CSS3, HTML5, Javascript, NodeJs, ExpressJS, NestJS, PostgreSQL,..."
     },
     "otherSkills": {
       "title": "Kỹ năng khác",
@@ -58,30 +58,30 @@
   },
   "projects": {
     "title": "Dự án cá nhân",
-    "general_link": "https://github.com/duongnguyenf8",
+    "general_link": "https://github.com/kirothanh",
     "project_1": {
-      "name": "Project Code snippet",
-      "description": "Một dự án nhỏ hoàn thành trong vòng một ngày. Một trang web đơn giản cho phép bạn tạo và chia sẻ các đoạn mã. Sử dụng HTML, CSS, JS và các phần tử tùy chỉnh.",
-      "demoLink": "https://codefast.vercel.app/",
-      "codeLink": "https://github.com/duongnguyenf8/demo_custom-element"
+      "name": "Dự án Mindmap",
+      "description": "Là dự án sử dụng thư viện Reac-flow để xây dựng tính năng mindmap, thuận tiện cho việc quản lý công việc, học tập. Ngoài ra, dự án còn có tính năng chuyên nghiệp cho phép tạo nhiều bản đồ tư duy trong một tài khoản và chia sẻ với người khác.",
+      "demoLink": "https://mindmap-project-f8.vercel.app/",
+      "codeLink": "https://github.com/kirothanh/Mindmap-Project-F8"
     },
     "project_2": {
-      "name": "Project blog",
-      "description": "Một dự án lớn hơn được thực hiện trong ba ngày. Một trang blog cá nhân với các bài viết về lập trình và học tập. Sử dụng React.js.",
+      "name": "Dự án Giỏ hàng",
+      "description": "Một dự án sử dụng thư viện redux để quản lý trạng thái và phản ứng các trang điều hướng của bộ định tuyến, người dùng có thể mua sản phẩm từ danh sách sản phẩm và thanh toán.",
       "demoLink": "https://code-exercise-blog.vercel.app/",
-      "codeLink": "https://github.com/duongnguyenf8/code_exercise-blog"
+      "codeLink": "https://github.com/kirothanh/Cart_ECommerce_F8"
     },
     "project_3": {
-      "name": "Project 20f8",
-      "description": "Một dự án thú vị được thực hiện trong một ngày. Một trò chơi giải đố dựa trên trò chơi năm 2048. Sử dụng CSS Next.js và Tailwind.",
-      "demoLink": "http://f8-2048.sanphamkythuat.online:880/",
-      "codeLink": "https://github.com/duongnguyenf8/20f8"
+      "name": "LandingPage",
+      "description": "Xây dựng trang đích trong 1 ngày, có responsive.",
+      "demoLink": "https://homework-44-six.vercel.app/",
+      "codeLink": "https://github.com/kirothanh/homework-44"
     }
   },
   "hobbies": {
     "title": "Sở thích của tôi",
     "hobbie_1": "Thưởng thức những bản nhạc thư giãn, nhạc rap của Đen Vâu và các nghệ sĩ khác,…",
-    "hobbie_2": "Đọc sách, tìm hiểu thêm về các ngôn ngữ lập trình mới. Hiện tại mình đang tự học Python",
+    "hobbie_2": "Đọc sách, tìm hiểu thêm về các ngôn ngữ lập trình mới. Hiện tại mình đang tự học NodeJS và NestJS",
     "hobbie_3": "Theo dõi các xu hướng công nghệ, tin tức về các sản phẩm nổi tiếng như Iphone, Huawei, GoogleAI,…"
   },
   "footer": {
